@@ -1,0 +1,6 @@
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/CMakeFiles/new_project.elf.dir
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/CMakeFiles/edit_cache.dir
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/freertos/CMakeFiles/freertos.dir
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/freertos/CMakeFiles/edit_cache.dir
+C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/04_alarma/armgcc/debug/freertos/CMakeFiles/rebuild_cache.dir
