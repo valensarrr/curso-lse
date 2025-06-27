@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "freertos",
+		"source" : "C:/Users/totia/OneDrive/Documentos/GitHub/curso-lse/trabajo_integrador/freertos"
+	}
+}
