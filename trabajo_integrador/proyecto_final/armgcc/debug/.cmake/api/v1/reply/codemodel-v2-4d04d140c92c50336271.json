@@ -74,14 +74,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "freertos::@2c328eccfcd2443a4ea6",
-					"jsonFile" : "target-freertos-debug-38d5d5e293fcdc974352.json",
+					"jsonFile" : "target-freertos-debug-54f914f9d1992d499ee4.json",
 					"name" : "freertos",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "new_project.elf::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-new_project.elf-debug-87fd3abf2a63a77f0ffe.json",
+					"jsonFile" : "target-new_project.elf-debug-9fd91c78194d6648fae4.json",
 					"name" : "new_project.elf",
 					"projectIndex" : 0
 				}
